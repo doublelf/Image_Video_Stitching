@@ -1,0 +1,6 @@
+numpy>=1.21
+opencv-contrib-python>=4.5
+pytest>=7.0
+fastapi>=0.110
+uvicorn>=0.29
+python-multipart>=0.0.9

@@ -1,2 +1,0 @@
-# Image_Video_Stitching
-Image_Video_Stitching
